@@ -1,5 +1,5 @@
 ---
-title: "2022 ECOSTRESS Cloud Workshop"
+title: "2022 Fall ECOSTRESS Cloud Workshop"
 subtitle: "Finding, accessing & analyzing ECOSTRESS data hosted in Earthdata Cloud"
  
 author: "This Workshop is hosted by NASA LP DAAC and JPL with support from NASA Openscapes."
